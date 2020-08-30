@@ -1,0 +1,22 @@
+{
+  "name": "cv-site",
+  "version": "1.0.0",
+  "description": "Simple Website for CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisTGX/cv-site.git"
+  },
+  "author": "Christian Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisTGX/cv-site/issues"
+  },
+  "homepage": "https://github.com/ChrisTGX/cv-site#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.14.0"
+  }
+}
